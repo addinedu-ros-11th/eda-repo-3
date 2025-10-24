@@ -1,0 +1,6 @@
+query_source,repos,stars_median,stars_mean
+topic:robotics,50,3006.5,8156.5
+topic:reinforcement-learning,43,4579.0,9379.32558139535
+topic:ros,14,1729.0,3916.285714285714
+topic:slam,11,1460.0,1700.3636363636363
+topic:drone,4,4257.0,4342.25
