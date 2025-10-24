@@ -1,0 +1,11 @@
+full_name,language,stargazers_count,activity_from_cutoff,contributors_from_cutoff,issue_close_rate,pr_merge_rate,score
+commaai/openpilot,Python,58523,200,100,0.5,0.35,4.0737
+unslothai/unsloth,Python,47353,200,95,0.5,0.425,3.94211
+ray-project/ray,Python,39472,200,100,0.5,0.415,3.87005
+Developer-Y/cs-video-courses,Unknown,70098,8,100,1.0,0.485,3.60826
+zauberzeug/nicegui,Python,14293,194,100,0.5,0.405,3.45189
+ArduPilot/ardupilot,C++,13926,200,100,0.5,0.365,3.44689
+AtsushiSakai/PythonRobotics,Python,26111,38,100,0.766667,0.43,2.84005
+Unity-Technologies/ml-agents,C#,18778,9,100,0.875,0.355,2.57572
+labmlai/annotated_deep_learning_paper_implementations,Python,63806,18,38,0.5,0.609375,2.44563
+carla-simulator/carla,C++,13154,38,100,0.5,0.425,2.3118
