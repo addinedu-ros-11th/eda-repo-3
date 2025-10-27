@@ -1,4 +1,4 @@
-# 🤖 TrendBot - GitHub 오픈소스 데이터를 활용한 로봇공학 연구 트렌드 분석
+# 🤖 TrendBot - GitHub 오픈소스 데이터를 활용한 로봇공학 트렌드 분석
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
