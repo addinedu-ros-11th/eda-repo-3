@@ -1,7 +1,6 @@
 # 🤖 TrendBot - GitHub 오픈소스 데이터를 활용한 로봇공학 트렌드 분석
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📋 프로젝트 개요
 
@@ -201,10 +200,6 @@ eda-repo-3/
 ## 📧 문의
 
 프로젝트에 대한 문의사항이나 제안은 이슈를 통해 남겨주세요.
-
-## 📜 라이선스
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
