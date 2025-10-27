@@ -190,28 +190,6 @@ eda-repo-3/
 └── README.md
 ```
 
-## 🚀 사용 방법
-
-```bash
-# 저장소 클론
-git clone https://github.com/addinedu-ros-11th/eda-repo-3.git
-cd eda-repo-3
-
-# 필요한 패키지 설치
-pip install -r requirements.txt
-
-# 데이터 수집 (API 키 필요)
-python src/collectors/github_collector.py
-python src/collectors/arxiv_collector.py
-python src/collectors/kipris_collector.py
-
-# 데이터 전처리
-python src/preprocessing/clean_data.py
-
-# 분석 실행
-python src/analysis/analyze_trends.py
-```
-
 ## 📝 향후 개선 방향
 
 1. 논문 및 특허 자료의 전체 내용(Full-text) 분석
